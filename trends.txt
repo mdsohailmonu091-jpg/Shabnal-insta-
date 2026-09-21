@@ -1,0 +1,5 @@
+# Har HAFTA yahan 1 line update karo: is hafte ka trending audio / topic.
+# (Instagram app kholo -> Reels -> trending audio (chorus-triangle icon) ka naam yahan likho)
+# daily.py is line ko roz ke reel-caption me jod dega. # wali lines ignore hoti hain.
+
+Festive GRWM + Diwali countdown audios (October-November festive season)

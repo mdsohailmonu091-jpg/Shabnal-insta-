@@ -1,0 +1,4 @@
+Pillow>=10.0
+requests>=2.31
+cloudinary>=1.36
+imageio-ffmpeg>=0.4.9
